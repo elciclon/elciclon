@@ -7,7 +7,7 @@ My name is Adrián, I'm from Argentina and I'm musician and developer.
 - **Python** proficiency.
 - **Tensorflow**
 - Frontend with **Angular**.
-- Backend with **SpringBoot**.
+- Backend with **Django, SpringBoot**.
 - Relational databases such as **MYSQL**.
 - **Linux** user from about 10 years
 - Experience leading **teams** of people.
